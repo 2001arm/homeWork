@@ -1,0 +1,40 @@
+
+.childediv{
+    text-align: center;
+}
+.childediv .heading{
+    margin: 25px 300px;
+    border: 1px solid black;
+    color: blue;
+    font-size: 55px;
+    background-color: white;
+}
+
+.mindiv{
+    margin: 50px 300px;
+    border: 1px solid black;
+    padding: 50px 150px;
+    background-color: white;
+    color: blue;
+    border-radius: 25px;
+}
+
+.time{
+    font-size: 50px;
+}
+
+.button1{
+    font-size: 30px;
+    margin: 15px;
+    padding: 10px 15px;
+    background-color: darkcyan;
+    border-radius: 10px;
+}
+
+.button2{
+    font-size: 30px;
+    margin: 15px;
+    padding: 10px 15px;
+    background-color: brown;
+    border-radius: 10px;
+}
